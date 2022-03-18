@@ -66,7 +66,7 @@ int main()
 
 	  if(map[curY][curX]=='E') 
 	  {
-		  printf("B站搜索嘉然今天吃什么！关注嘉然，顿顿解馋。你真聪明!");
+		  printf("你真聪明!");
 		  break;
 	  }
 
